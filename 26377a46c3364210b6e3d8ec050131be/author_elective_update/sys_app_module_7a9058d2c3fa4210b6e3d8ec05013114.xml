@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Radar 1718576353078</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1434439_radar_1718576353078</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:19:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7a9058d2c3fa4210b6e3d8ec05013114</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Radar 1718576353078</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_app_module_7a9058d2c3fa4210b6e3d8ec05013114</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:19:14</sys_updated_on>
+        <timeline_page/>
+        <title>Radar 1718576353078</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_app_module_7a9058d2c3fa4210b6e3d8ec05013114</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Radar 1718576353078</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1434439_radar_1718576353078</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 22:19:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7a9058d2c3fa4210b6e3d8ec05013114</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Radar 1718576353078</sys_name><sys_overrides/><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_app_module_7a9058d2c3fa4210b6e3d8ec05013114</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 22:19:14</sys_updated_on><timeline_page/><title>Radar 1718576353078</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1772875356</payload_hash>
+        <record_name>Radar 1718576353078</record_name>
+        <reverted_from/>
+        <source>2df7ba46c3364210b6e3d8ec05013133</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:19:14</sys_created_on>
+        <sys_id>fe9058d2c3fa4210b6e3d8ec05013116</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190232216110000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:19:14</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f29058d2c0fa421044abf386b2777816</update_guid>
+        <update_guid_history>f29058d2c0fa421044abf386b2777816:-1772875356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Radar 1718576353078">5d819c16c3fa4210b6e3d8ec05013139</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:23:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>1a9f3fff5ee04bf98319f6b388098751</sys_id>
+        <sys_metadata>7a9058d2c3fa4210b6e3d8ec05013114</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Radar 1718576353078</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_app_module_7a9058d2c3fa4210b6e3d8ec05013114</sys_update_name>
+        <sys_update_version display_value="sys_app_module_7a9058d2c3fa4210b6e3d8ec05013114">fe9058d2c3fa4210b6e3d8ec05013116</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:23:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

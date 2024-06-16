@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="daef0892c3fa4210b6e3d8ec05013194" extends="sys_import_set_row" label="Activities Data Mapping" max_length="40" name="x_1434439_radar_ihub_import_5cce8012c3fa4210b6e3d8ec050131d5" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Source" label="Source" max_length="40" name="u_source" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Activity" label="Activity" max_length="40" name="u_activity" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Short Description" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Competitor" label="Competitor" max_length="40" name="u_competitor" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="40" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Customer" label="Customer" max_length="40" name="u_customer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="135" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date and Time" label="Date and Time" max_length="40" name="u_date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Opened by" label="Opened by" max_length="40" name="u_opened_by" type="string"/>
+    </element>
+</database>
