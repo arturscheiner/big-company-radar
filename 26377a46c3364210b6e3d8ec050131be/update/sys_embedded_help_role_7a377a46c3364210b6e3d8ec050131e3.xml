@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1434439_radar.admin" name="x_1434439_radar.admin">b6377a46c3364210b6e3d8ec050131e0</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 15:48:45</sys_created_on>
+        <sys_id>7a377a46c3364210b6e3d8ec050131e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b6377a46c3364210b6e3d8ec050131e0</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7a377a46c3364210b6e3d8ec050131e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 15:48:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
