@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="35290056c3ba4210b6e3d8ec050131b0" sys_domain="global" table="x_1434439_radar_activities" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>b9290056c3ba4210b6e3d8ec050131b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013191</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013192</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013192</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013193</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>customer</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013193</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013194</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013194</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>notes</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013195</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013195</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>competitor</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013196</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013196</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013197</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_and_time</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013197</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3129845ac3ba4210b6e3d8ec05013198</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_id>3929845ac3ba4210b6e3d8ec05013198</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1434439_radar_activities</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>35290056c3ba4210b6e3d8ec050131b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1434439_radar_activities</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+            <sys_update_name>sys_ui_section_35290056c3ba4210b6e3d8ec050131b0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ui_section_35290056c3ba4210b6e3d8ec050131b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="35290056c3ba4210b6e3d8ec050131b0" sys_domain="global" table="x_1434439_radar_activities" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>b9290056c3ba4210b6e3d8ec050131b3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013191</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013192</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013192</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013193</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>customer</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013193</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>location</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013194</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013194</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>notes</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013195</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013195</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>competitor</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013196</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>source</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013196</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013197</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>date_and_time</element><position>13</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013197</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>opened_by</element><position>14</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3129845ac3ba4210b6e3d8ec05013198</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>15</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_id>3929845ac3ba4210b6e3d8ec05013198</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1434439_radar_activities" sys_domain="global" view="Default view">35290056c3ba4210b6e3d8ec050131b0</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1434439_radar_activities</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>35290056c3ba4210b6e3d8ec050131b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1434439_radar_activities</sys_name><sys_overrides/><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_ui_section_35290056c3ba4210b6e3d8ec050131b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:40</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>135889345</payload_hash>
+        <record_name>Activities</record_name>
+        <reverted_from/>
+        <source>2df7ba46c3364210b6e3d8ec05013133</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 21:46:40</sys_created_on>
+        <sys_id>3529845ac3ba4210b6e3d8ec0501319b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190230445610000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 21:46:40</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f929845a56ba4210b154095e7c2b609a</update_guid>
+        <update_guid_history>f929845a56ba4210b154095e7c2b609a:135889345,b1290056e2ba42100588a3bf9517ffb3:-84252732</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:51:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>592a89b251f746089a3767409ad01621</sys_id>
+        <sys_metadata>35290056c3ba4210b6e3d8ec050131b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1434439_radar_activities</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent display_value="">e219805ac3ba4210b6e3d8ec0501319d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_ui_section_35290056c3ba4210b6e3d8ec050131b0</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_35290056c3ba4210b6e3d8ec050131b0">3529845ac3ba4210b6e3d8ec0501319b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:51:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

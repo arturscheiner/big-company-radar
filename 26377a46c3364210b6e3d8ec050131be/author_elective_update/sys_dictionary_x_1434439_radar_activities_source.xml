@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="source" table="x_1434439_radar_activities">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>1</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Source</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>source</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_1434439_radar_activities</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 21:46:28</sys_created_on>
+        <sys_id>3e19805ac3ba4210b6e3d8ec050131cb</sys_id>
+        <sys_name>Source</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_dictionary_x_1434439_radar_activities_source</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 21:46:30</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_dictionary_x_1434439_radar_activities_source</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="source" table="x_1434439_radar_activities"><active>true</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>1</choice><choice_field/><choice_table/><column_label>Source</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>source</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Choice">choice</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_1434439_radar_activities</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 21:46:28</sys_created_on><sys_id>3e19805ac3ba4210b6e3d8ec050131cb</sys_id><sys_name>Source</sys_name><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_dictionary_x_1434439_radar_activities_source</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 21:46:30</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1216475158</payload_hash>
+        <record_name>Activities.Source</record_name>
+        <reverted_from/>
+        <source>2df7ba46c3364210b6e3d8ec05013133</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 21:46:30</sys_created_on>
+        <sys_id>5719c05ac3ba4210b6e3d8ec050131c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19023041c100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 21:46:30</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>1f19c05a82ba4210528614cb931d39c0</update_guid>
+        <update_guid_history>1f19c05a82ba4210528614cb931d39c0:-1216475158,0b19c05a88ba4210a7faae657d30183c:-1190249270,53184cd62eba4210f7705f06f1969df2:2000418998,8b95c41668ba4210507443f7c28e2a1f:-1216475158,72958416b7ba4210df0a727deb5f01e7:-1190249270</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:51:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>54cfd7aea0ba4e8899a8674eee4ef764</sys_id>
+        <sys_metadata>3e19805ac3ba4210b6e3d8ec050131cb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent display_value="">e219805ac3ba4210b6e3d8ec0501319d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1434439_radar_activities_source</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1434439_radar_activities_source">5719c05ac3ba4210b6e3d8ec050131c1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:51:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

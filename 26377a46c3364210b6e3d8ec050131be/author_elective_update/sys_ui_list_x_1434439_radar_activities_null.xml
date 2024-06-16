@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1434439_radar_activities" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1434439_radar_activities</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>fdd58c16c3ba4210b6e3d8ec050131e9</sys_id>
+            <sys_mod_count/>
+            <sys_name>x_1434439_radar_activities</sys_name>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2024-06-16 21:42:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ui_list_x_1434439_radar_activities_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1434439_radar_activities" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1434439_radar_activities</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>fdd58c16c3ba4210b6e3d8ec050131e9</sys_id><sys_mod_count/><sys_name>x_1434439_radar_activities</sys_name><sys_package/><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2024-06-16 21:42:05</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-1550525502</payload_hash>
+        <record_name>x_1434439_radar_activities</record_name>
+        <reverted_from/>
+        <source>2df7ba46c3364210b6e3d8ec05013133</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 21:42:05</sys_created_on>
+        <sys_id>ae180cd6c3ba4210b6e3d8ec050131cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902300102d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 21:42:05</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>26180cd68fba42102c7175d21c8305cb</update_guid>
+        <update_guid_history>26180cd68fba42102c7175d21c8305cb:-1550525502,aa180cd69cba42107b836aa523b7c6c3:-1975808727</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:51:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>9174442305c145c0b41c248e8b9c9900</sys_id>
+        <sys_metadata>8229c816c3ba4210b6e3d8ec050131ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1434439_radar_activities</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent display_value="">e219805ac3ba4210b6e3d8ec0501319d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1434439_radar_activities_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1434439_radar_activities_null">ae180cd6c3ba4210b6e3d8ec050131cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:51:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
