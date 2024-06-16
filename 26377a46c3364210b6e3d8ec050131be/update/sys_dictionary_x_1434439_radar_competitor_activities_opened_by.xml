@@ -28,7 +28,7 @@
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>32</max_length>
         <name>x_1434439_radar_competitor_activities</name>
         <next_element/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sys_dictionary_x_1434439_radar_competitor_activities_opened_by</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-16 22:25:46</sys_updated_on>
+        <sys_updated_on>2024-06-16 22:45:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

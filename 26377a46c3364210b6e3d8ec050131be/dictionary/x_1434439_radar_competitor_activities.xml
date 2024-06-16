@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="8b71d816c3fa4210b6e3d8ec050131bf" label="Competitor Activities" max_length="40" name="x_1434439_radar_competitor_activities" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="Date and Time" max_length="40" name="date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:gs.nowDateTime()" dynamic_default_value="79cb83a85f220100a9ad2572f2b4773c" label="Date and Time" max_length="40" name="date_and_time" read_only="true" type="glide_date_time" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Source" max_length="40" name="source" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Partner" sequence="0" value="Partner"/>
+                <element inactive_on_update="false" label="Partner" sequence="1" value="Partner"/>
                 <element inactive_on_update="false" label="Employee" sequence="0" value="Employee"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="50" name="number" read_only="true" type="string"/>
-        <element attributes="encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Opened by" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <element attributes="encode_utf8=false" default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Opened by" mandatory="true" max_length="32" name="opened_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Competitor" max_length="40" name="competitor" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Epsilon Systems" sequence="0" value="Epsilon Systems"/>
