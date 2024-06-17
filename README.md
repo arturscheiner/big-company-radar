@@ -6,10 +6,7 @@ This project contains the source code for a sample application called "Big Compa
 
 Big Company Radar is a simple application designed to help users track the activities of competitor companies. It allows users to:
 
-* Create and manage competitor profiles
-* Track competitor news and announcements
-* Monitor social media activity
-* Analyze competitor trends
+* Log competitor activities
 
 **Getting Started**
 
@@ -39,6 +36,10 @@ This sample application provides a basic foundation for tracking competitor acti
 * Creating custom forms and views
 * Implementing workflows and automations
 * Integrating with external data sources
+* Create and manage competitor profiles
+* Track competitor news and announcements
+* Monitor social media activity
+* Analyze competitor trends
 
 We encourage you to explore the capabilities of App Engine Studio to tailor Big Company Radar to your specific competitor tracking requirements.
 
