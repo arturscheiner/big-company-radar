@@ -25,104 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c5d4f41655be421073d24a0703cd3248</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>chrome_header</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sys_ux_page_property_c5d4f41655be421073d24a0703cd3248</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 01:11:54</sys_updated_on>
+        <sys_updated_on>2024-06-17 01:13:42</sys_updated_on>
         <type>json</type>
         <unique_name>x_1434439_radar.bcd4f416c3be4210b6e3d8ec05013118.root.chrome_header</unique_name>
-        <value>{&#13;
-    "privatePage":{&#13;
-      "searchEnabled": true,&#13;
-       "userPrefsEnabled":false,&#13;
-       "currentScreenLinkConfiguration": {&#13;
-            "roles": ["admin"],&#13;
-            "position": 250&#13;
-        },&#13;
-       "globalTools":{&#13;
-          "collapsingMenuId":0,&#13;
-          "primaryItems":[&#13;
-             {&#13;
-                "label":"UserMenu",&#13;
-                "icon":"user",&#13;
-                "type":"menu",&#13;
-                "primaryDisplay":"icon",&#13;
-                "value":{&#13;
-                   "children":[&#13;
-                      {&#13;
-                         "label": {&#13;
-                          "translatable": true,&#13;
-                          "message":"Settings"&#13;
-                        },&#13;
-                         "position":100,&#13;
-                         "type":"navigation",&#13;
-                         "value":{&#13;
-                            "type":"route",&#13;
-                            "value":{&#13;
-                               "route":"settings",&#13;
-                               "fields":{&#13;
-                                  &#13;
-                               }&#13;
-                            }&#13;
-                         }&#13;
-                      },&#13;
-                      {                   &#13;
-                        "condition": {&#13;
-                          "roles": ["admin", "ui_builder_admin"]&#13;
-                        },&#13;
-                         "label":{&#13;
-                            "translatable": true,&#13;
-                            "message":"Configure"&#13;
-                          },&#13;
-                         "type":"navigation",&#13;
-                         "position":200,&#13;
-                         "primaryDisplay":"none",&#13;
-                         "value":{&#13;
-                            "type":"external",&#13;
-                            "opensWindow":"true",&#13;
-                            "value":{&#13;
-                               "href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=b0d4f416c3be4210b6e3d8ec05013119"&#13;
-                            }&#13;
-                         }&#13;
-                      },&#13;
-                      {&#13;
-                         "label": {&#13;
-                            "translatable": true,&#13;
-                            "message":"Logout"&#13;
-                          },&#13;
-                         "position":500,&#13;
-                         "type":"navigation",&#13;
-                                "value":{&#13;
-                                  "type": "AUTH_ROUTE_BINDING",&#13;
-                                        "binding": {&#13;
-                                            "address": ["logout"],&#13;
-                                            "params": {"reload": true},&#13;
-                                            "default": "/logout.do"&#13;
-                                }&#13;
-                        }&#13;
-                      }&#13;
-                   ]&#13;
-                }&#13;
-             }&#13;
-          ],&#13;
-          "secondaryItems":[]&#13;
-       }&#13;
-    },&#13;
-    "publicPage":{&#13;
-      "menuEnabled": true,&#13;
-      "logoRoute": {&#13;
-        "type": "route",&#13;
-        "value": {&#13;
-          "route": "landing",&#13;
-          "fields":{}&#13;
-        }&#13;
-      }&#13;
-    }&#13;
- }</value>
+        <value>{"privatePage":{"searchEnabled":true,"userPrefsEnabled":false,"currentScreenLinkConfiguration":{"roles":["admin"],"position":250},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"label":{"translatable":true,"message":"Settings"},"position":100,"type":"navigation","value":{"type":"route","value":{"route":"settings","fields":{}}}},{"condition":{"roles":["admin","ui_builder_admin"]},"label":{"translatable":true,"message":"Configure"},"type":"navigation","position":200,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=b0d4f416c3be4210b6e3d8ec05013119"}}},{"label":{"translatable":true,"message":"Logout"},"position":500,"type":"navigation","value":{"type":"AUTH_ROUTE_BINDING","binding":{"address":["logout"],"params":{"reload":true},"default":"/logout.do"}}}]}}],"secondaryItems":[]}},"publicPage":{"menuEnabled":true,"logoRoute":{"type":"route","value":{"route":"landing","fields":{}}},"searchEnabled":false}}</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=c5d4f41655be421073d24a0703cd3248"/>
 </record_update>
