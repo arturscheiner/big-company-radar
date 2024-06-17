@@ -13,7 +13,8 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p>Mantenha-se à frente da concorrência com o Radar, o aplicativo que monitora as atividades dos seus principais rivais no mercado.</p>]]></description>
+        <description><![CDATA[<div>Have you spotted any activity from our competitors? Report it now!</div>
+<div>Please remember, timely reporting is crucial for us to keep ahead of the competition. So if you see any activity, don&#39;t hesitate to report it as soon as possible! &#x1f6a8;&#x1f575;️‍♀️</div>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -30,7 +31,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Reportar Atividade da Concorrência</name>
+        <name>Report Competitor Activities</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -80,7 +81,7 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>Viu alguma atividade de algum dos nossos concorrente? Reporte já!</short_description>
+        <short_description>Have you spotted any activity from our competitors? Report it now! Please remember, timely reporting is crucial for us to keep ahead of the competition.</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state/>
@@ -88,14 +89,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-16 22:53:32</sys_created_on>
         <sys_id>d578d49ec3fa4210b6e3d8ec05013163</sys_id>
-        <sys_mod_count>41</sys_mod_count>
-        <sys_name>Reportar Atividade da Concorrência</sys_name>
+        <sys_mod_count>44</sys_mod_count>
+        <sys_name>Report Competitor Activities</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sc_cat_item_producer_d578d49ec3fa4210b6e3d8ec05013163</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-06-17 00:43:49</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 12:56:07</sys_updated_on>
         <table_name>x_1434439_radar_competitor_activities</table_name>
         <taxonomy_topic/>
         <template/>
@@ -103,7 +104,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>41</version>
+        <version>44</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>

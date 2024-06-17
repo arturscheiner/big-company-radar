@@ -4,7 +4,7 @@
         <acls/>
         <active>true</active>
         <annotation/>
-        <attributes>browserActivatedIn=safari,integrationActivatedIn=integrated,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=73000,viewActivatedIn=naturalLanguage</attributes>
+        <attributes>browserActivatedIn=safari,integrationActivatedIn=integrated,labelCacheCleanUpExecuted=true,timeFromCreateToActivate=4219000,viewActivatedIn=diagramming</attributes>
         <authored_on_release_version>25000</authored_on_release_version>
         <callable_by_client_api>false</callable_by_client_api>
         <category/>
@@ -27,7 +27,7 @@
         <sc_callable>false</sc_callable>
         <show_draft_actions>false</show_draft_actions>
         <show_triggered_flows>false</show_triggered_flows>
-        <status>draft</status>
+        <status>published</status>
         <substatus/>
         <sys_class_name>sys_hub_flow</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -35,7 +35,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>559a079ec37a8210b6e3d8ec0501311c</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_name>Telegram Radar Notification</sys_name>
         <sys_overrides/>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
@@ -43,7 +43,7 @@
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sys_hub_flow_559a079ec37a8210b6e3d8ec0501311c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:25</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:10</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=559a079ec37a8210b6e3d8ec0501311c"/>
@@ -80,14 +80,14 @@
         <identifier>559a079ec37a8210b6e3d8ec0501311c</identifier>
         <runner>FDTriggerRunner</runner>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-17 11:53:01</sys_created_on>
-        <sys_id>27da0f9ec37a8210b6e3d8ec0501319c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_created_on>2024-06-17 13:02:08</sys_created_on>
+        <sys_id>b3aa5716c3fa8210b6e3d8ec050131b8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:01</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:08</sys_updated_on>
         <trigger display_value="">5bda0f9ec37a8210b6e3d8ec0501319b</trigger>
     </sys_trigger_runner_mapping>
-    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=559a079ec37a8210b6e3d8ec0501311c^sys_idNOT IN27da0f9ec37a8210b6e3d8ec0501319c"/>
+    <sys_trigger_runner_mapping action="delete_multiple" query="identifier=559a079ec37a8210b6e3d8ec0501311c^sys_idNOT INb3aa5716c3fa8210b6e3d8ec050131b8"/>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=559a079ec37a8210b6e3d8ec0501311c^sys_idNOT IN05ba0fdac37a8210b6e3d8ec0501311f"/>
     <sys_hub_trigger_instance action="INSERT_OR_UPDATE">
         <comment/>
@@ -98,10 +98,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:52:19</sys_created_on>
         <sys_id>05ba0fdac37a8210b6e3d8ec0501311f</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:25</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:09</sys_updated_on>
         <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -121,6 +121,20 @@
         <sys_updated_on>2024-06-17 11:52:19</sys_updated_on>
         <value>x_1434439_radar_competitor_activities</value>
         <variable display_value="Table">cf1e1980c32222002841b63b12d3aea0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>05ba0fdac37a8210b6e3d8ec0501311f</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 13:02:00</sys_created_on>
+        <sys_id>c6aadfd2c3fa8210b6e3d8ec050131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 13:02:00</sys_updated_on>
+        <value>unique_changes</value>
+        <variable display_value="Run Trigger">2b9def50c31132002841b63b12d3ae5b</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
         <document>sys_hub_trigger_instance</document>
@@ -156,7 +170,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -215,14 +229,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:52:38</sys_created_on>
         <sys_id>71ca0fdac37a8210b6e3d8ec05013123</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:24</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -347,7 +361,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -406,14 +420,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:52:38</sys_created_on>
         <sys_id>b1ca0b9ec37a8210b6e3d8ec050131dd</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:24</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -445,10 +459,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:52:31</sys_created_on>
         <sys_id>c0ca0b9ec37a8210b6e3d8ec0501314b</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:55:12</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:43</sys_updated_on>
         <ui_id>38769646-2697-4453-8318-f1eaacea96e1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c0ca0b9ec37a8210b6e3d8ec0501314b"/>
@@ -590,7 +604,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cfdacb9ec37a8210b6e3d8ec050131fa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -598,7 +612,7 @@
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=cfdacb9ec37a8210b6e3d8ec050131fa"/>
@@ -613,10 +627,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>d3da0f9ec37a8210b6e3d8ec0501312d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:01</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:08</sys_updated_on>
         <trigger_definition display_value="Created or Updated">a45d9180c32222002841b63b12d3aea7</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -651,6 +665,20 @@
         <value>^EQ</value>
         <variable display_value="Condition">707dd180c32222002841b63b12d3aecb</variable>
     </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_trigger_instance</document>
+        <document_key>d3da0f9ec37a8210b6e3d8ec0501312d</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 13:02:07</sys_created_on>
+        <sys_id>e3aa5716c3fa8210b6e3d8ec0501312f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
+        <value>unique_changes</value>
+        <variable display_value="Run Trigger">2b9def50c31132002841b63b12d3ae5b</variable>
+    </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_trigger_output_a45d9180c32222002841b63b12d3aea7^id=d3da0f9ec37a8210b6e3d8ec0501312d"/>
     <sys_hub_flow_stage action="delete_multiple" query="flow=cfdacb9ec37a8210b6e3d8ec050131fa"/>
     <sys_flow_cat_variable_model action="delete_multiple" query="id=cfdacb9ec37a8210b6e3d8ec050131fa^sys_idNOT IN8bdacb9ec37a8210b6e3d8ec050131fb"/>
@@ -671,7 +699,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id,uiTypeLabel=Document ID</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,uiType=document_id</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -730,14 +758,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>4bdacb9ec37a8210b6e3d8ec050131fc</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -755,7 +783,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name,uiTypeLabel=Table Name</attributes>
+        <attributes>element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,test_input_hidden=true,uiType=table_name</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -814,14 +842,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>57da0f9ec37a8210b6e3d8ec05013111</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -835,11 +863,34 @@
         <xml_view>false</xml_view>
     </sys_hub_flow_input>
     <sys_hub_action_input_action_instance action="delete_multiple" query="action_input=57da0f9ec37a8210b6e3d8ec05013111"/>
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDCollection</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>global</scope_name>
+        <serialized_content>{"FlowDesigner:FDCollection":{"$COCollectionField":[{"FDChangeDetails":{"previous_display_value":"String","previous_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Display Value\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"},"previous_value":"String","previous_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Previous Value\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"current_display_value":"String","current_display_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Display Value\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\"}"},"current_value":"String","current_value.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Current Value\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"field_name":"String","field_name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Field Name\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDCollection.$type_facets":{"SimpleMapFacet":"{\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Changed Fields\",\"mandatory\":\"false\",\"child_name\":\"FDChangeDetails\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDCollection\",\"child_label\":\"FDChangeDetails\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"100\",\"max_length\":\"4000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 23:19:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>f4f014150f023300ecf0cc52ff767eed</sys_id>
+        <sys_mod_count>101</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Flow Designer Designer Model" source="com.glide.hub.designer_backend.model">e0523d5e8df0021087de63ac7f1f008c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 05:06:11</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
     <sys_hub_flow_input action="INSERT_OR_UPDATE">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
+        <attributes>child_label=FDChangeDetails,child_name=FDChangeDetails,child_type=object,child_type_label=Object,co_type_name=FDCollection,element_mapping_provider=com.glide.flow_design.action.data.FlowDesignVariableMapper,pwd2droppable=true,uiType=array.object,uiTypeLabel=Array.Object</attributes>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
 
@@ -898,14 +949,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>83da0f9ec37a8210b6e3d8ec05013109</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -937,10 +988,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>13da0f9ec37a8210b6e3d8ec0501312c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
         <ui_id>38769646-2697-4453-8318-f1eaacea96e1</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=13da0f9ec37a8210b6e3d8ec0501312c"/>
@@ -952,14 +1003,27 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:00</sys_created_on>
         <sys_id>dfda0f9ec37a8210b6e3d8ec0501312c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:00</sys_updated_on>
-        <value>https://www.send.com</value>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
+        <value/>
         <variable display_value="URL">d96256d6c3c3201032480d1eb540dd1a</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="table=var__m_sys_hub_action_input_856256d6c3c3201032480d1eb540dd17^id=13da0f9ec37a8210b6e3d8ec0501312c"/>
-    <sys_hub_input_scripts action="delete_multiple" query="instance=13da0f9ec37a8210b6e3d8ec0501312c"/>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=13da0f9ec37a8210b6e3d8ec0501312c^sys_idNOT IN2baa5716c3fa8210b6e3d8ec05013131"/>
+    <sys_hub_input_scripts action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <input_name>url</input_name>
+        <instance>13da0f9ec37a8210b6e3d8ec0501312c</instance>
+        <referenced_table>sys_hub_action_instance</referenced_table>
+        <script>{"url":{"scriptActive":true,"script":"var shortDesc \u003d fd_data.trigger.current.short_description;\nvar number \u003d fd_data.trigger.current.number;\nvar competitor \u003d fd_data.trigger.current.competitor;\nvar customer \u003d fd_data.trigger.current.customer.name\nvar location \u003d fd_data.trigger.current.location.name\nvar messenger \u003d \"Attention! 🚨 A new competitor activity has been logged for \" + shortDesc + \" related to the customer \" + customer + \", which took place in \" + location + \". Don\u0027t miss this opportunity to learn about our competitor\u0027s \" + competitor + \" strategy! Take action and analyze this data to stay ahead of the game! 😎\"\nvar message \u003d \"New activity logged for competitor \" + competitor + \" related to the customer \" + customer + \". The perceived activity was \" + shortDesc + \" that took place in \" + location + \". Hurry up! Do something! :-)\";\nreturn `https://api.telegram.org/bot7420868257:AAFIpRcZDFCOKgxaHlKFxUX-9RpHvAMg1QA/sendMessage?chat_id\u003d-4287195961\u0026text\u003d${encodeURIComponent(messenger)}`;"}}</script>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 13:02:07</sys_created_on>
+        <sys_id>2baa5716c3fa8210b6e3d8ec05013131</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 13:02:07</sys_updated_on>
+    </sys_hub_input_scripts>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=13da0f9ec37a8210b6e3d8ec0501312c"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=cfdacb9ec37a8210b6e3d8ec050131fa"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=cfdacb9ec37a8210b6e3d8ec050131fa"/>
@@ -1045,20 +1109,20 @@
     </sys_hub_flow>
     <sys_flow_trigger_plan action="delete_multiple" query="plan_id=559a079ec37a8210b6e3d8ec0501311c^sys_idNOT IN2bda0f9ec37a8210b6e3d8ec0501319d"/>
     <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
-        <binding_strategy>com.snc.process_flow.engine.binding.OncePerRecord</binding_strategy>
+        <binding_strategy>com.snc.process_flow.engine.binding.OncePerUniqueChange</binding_strategy>
         <plan>{"type":"PlanProxy","persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"2bda0f9ec37a8210b6e3d8ec0501319d","name":"plan","plan_signature":null}}</plan>
         <plan_id>559a079ec37a8210b6e3d8ec0501311c</plan_id>
-        <snapshot>1b5b4bdec37a8210b6e3d8ec05013114</snapshot>
+        <snapshot>24da5b16c3fa8210b6e3d8ec05013123</snapshot>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 11:53:01</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2bda0f9ec37a8210b6e3d8ec0501319d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 11:53:01</sys_updated_on>
+        <sys_updated_on>2024-06-17 13:02:08</sys_updated_on>
         <trigger display_value="">5bda0f9ec37a8210b6e3d8ec0501319b</trigger>
     </sys_flow_trigger_plan>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=559a079ec37a8210b6e3d8ec0501311c"/>
