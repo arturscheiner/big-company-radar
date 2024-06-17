@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">e682bc12c3be4210b6e3d8ec0501319c</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">3a82bc1277be421087be7056798dceed</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-17 00:47:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7a82bc12e3be42102b4c3812b824e7c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_ux_page_property_7a82bc12e3be42102b4c3812b824e7c1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-17 00:47:34</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1434439_radar.e682bc12c3be4210b6e3d8ec0501319c.route.chrome_header.3a82bc1277be421087be7056798dceed</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ux_page_property_7a82bc12e3be42102b4c3812b824e7c1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">e682bc12c3be4210b6e3d8ec0501319c</page><required_translations>[]</required_translations><route display_value="Landing Page">3a82bc1277be421087be7056798dceed</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-17 00:47:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7a82bc12e3be42102b4c3812b824e7c1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_ux_page_property_7a82bc12e3be42102b4c3812b824e7c1</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-17 00:47:34</sys_updated_on><type>json</type><unique_name>x_1434439_radar.e682bc12c3be4210b6e3d8ec0501319c.route.chrome_header.3a82bc1277be421087be7056798dceed</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2080299920</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>063bd400c3320210b6e3d8ec050131bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-09 23:19:16</sys_created_on>
+        <sys_id>30a4b016c3be4210b6e3d8ec05013126</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fff4c85200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>fca4b01607be4210f9eb11b31334a125</update_guid>
+        <update_guid_history>fca4b01607be4210f9eb11b31334a125:2080299920</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-17 00:56:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>919c9c7526b64d24aa15028a1b84ccf1</sys_id>
+        <sys_metadata>7a82bc12e3be42102b4c3812b824e7c1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7a82bc12e3be42102b4c3812b824e7c1</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7a82bc12e3be42102b4c3812b824e7c1">30a4b016c3be4210b6e3d8ec05013126</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-17 00:56:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

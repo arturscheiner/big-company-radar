@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description>This is a custom portal experience.</description>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>Custom Portal App Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-17 00:47:34</sys_created_on>
+        <sys_id>ea82bc12c3be4210b6e3d8ec0501319c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_ux_app_config_ea82bc12c3be4210b6e3d8ec0501319c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-17 00:47:34</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_ux_app_config_ea82bc12c3be4210b6e3d8ec0501319c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description>This is a custom portal experience.</description><disable_auto_reflow>false</disable_auto_reflow><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>Custom Portal App Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-06-17 00:47:34</sys_created_on><sys_id>ea82bc12c3be4210b6e3d8ec0501319c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Custom Portal App Config</sys_name><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_ux_app_config_ea82bc12c3be4210b6e3d8ec0501319c</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-06-17 00:47:34</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>522010851</payload_hash>
+        <record_name>Custom Portal App Config</record_name>
+        <reverted_from/>
+        <source>063bd400c3320210b6e3d8ec050131bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-06-09 23:19:16</sys_created_on>
+        <sys_id>41a4b016c3be4210b6e3d8ec05013146</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18fff4c85200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>01a4b01632be4210ad281c82394ee546</update_guid>
+        <update_guid_history>01a4b01632be4210ad281c82394ee546:522010851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-17 00:56:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>0325b31ea7c44777803016c3a20124d9</sys_id>
+        <sys_metadata>ea82bc12c3be4210b6e3d8ec0501319c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Custom Portal App Config</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_ea82bc12c3be4210b6e3d8ec0501319c</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_ea82bc12c3be4210b6e3d8ec0501319c">41a4b016c3be4210b6e3d8ec05013146</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-17 00:56:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
