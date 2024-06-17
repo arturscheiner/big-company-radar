@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>d0ce8012c3fa4210b6e3d8ec050131d7</record_id>
+        <source_structure/>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:11:10</sys_created_on>
+        <sys_id>7cce0052c3fa4210b6e3d8ec05013118</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_7cce0052c3fa4210b6e3d8ec05013118</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:11:11</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sn_ihub_data_mapping_definition_7cce0052c3fa4210b6e3d8ec05013118</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>d0ce8012c3fa4210b6e3d8ec050131d7</record_id><source_structure/><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 22:11:10</sys_created_on><sys_id>7cce0052c3fa4210b6e3d8ec05013118</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_7cce0052c3fa4210b6e3d8ec05013118</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 22:11:11</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>1223544970</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>51dfa11e8db0021087de63ac7f1f000b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 22:18:32</sys_created_on>
+        <sys_id>647054d2c3fa4210b6e3d8ec05013107</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190232171630000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:18:32</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>607054d291fa42103db461faed696107</update_guid>
+        <update_guid_history>607054d291fa42103db461faed696107:0,6c7054d200fa42108e60448c478ea504:0,c5ce0052a7fa421003651191e28b9983:1715825671,f4ce00525afa421044c8cd7e0c1d931a:1732523841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e47054d2c3fa4210b6e3d8ec05013109</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:18:32</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>3f9c090923464ca08766eff2c53a2100</sys_id>
+        <sys_metadata>7cce0052c3fa4210b6e3d8ec05013118</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_7cce0052c3fa4210b6e3d8ec05013118</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_7cce0052c3fa4210b6e3d8ec05013118">647054d2c3fa4210b6e3d8ec05013107</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:18:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

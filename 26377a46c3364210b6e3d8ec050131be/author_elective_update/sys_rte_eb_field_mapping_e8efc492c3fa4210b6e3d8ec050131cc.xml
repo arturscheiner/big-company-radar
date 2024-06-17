@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field/>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:16:05</sys_created_on>
+        <sys_id>e8efc492c3fa4210b6e3d8ec050131cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="">a4ce0c12c3fa4210b6e3d8ec0501318e</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">e4efc492c3fa4210b6e3d8ec050131ca</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_e8efc492c3fa4210b6e3d8ec050131cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:16:05</sys_updated_on>
+        <target_sys_rte_eb_field/>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Radar">26377a46c3364210b6e3d8ec050131be</application>
+        <file_path/>
+        <instance_id>7d047f93db61869837d72a59139619a9</instance_id>
+        <instance_name>dev260498</instance_name>
+        <name>sys_rte_eb_field_mapping_e8efc492c3fa4210b6e3d8ec050131cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>100</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field/><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-16 22:16:05</sys_created_on><sys_id>e8efc492c3fa4210b6e3d8ec050131cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package><sys_policy/><sys_rte_eb_definition display_value="">a4ce0c12c3fa4210b6e3d8ec0501318e</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="IHUB_SOURCE_TEMP_MAPPING">e4efc492c3fa4210b6e3d8ec050131ca</sys_rte_eb_entity_mapping><sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope><sys_update_name>sys_rte_eb_field_mapping_e8efc492c3fa4210b6e3d8ec050131cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-16 22:16:05</sys_updated_on><target_sys_rte_eb_field/></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>609605315</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>51dfa11e8db0021087de63ac7f1f000b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-06-16 22:18:31</sys_created_on>
+        <sys_id>107014d2c3fa4210b6e3d8ec05013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19023216c8e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:18:31</sys_updated_on>
+        <type>RTE Field Mapping</type>
+        <update_guid>1c7014d29afa42105f2412d123d73e67</update_guid>
+        <update_guid_history>1c7014d29afa42105f2412d123d73e67:0,d07014d2d3fa4210dfea76281f48e243:0,60efc492a5fa42107468ac0b83d9aece:-329824030</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 22:18:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>645c3189c9554ed9a16fe2faa90e5229</sys_id>
+        <sys_metadata>e8efc492c3fa4210b6e3d8ec050131cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_scope_delete display_value="">72e61d473c26414c9c8408f0eac3ea90</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_e8efc492c3fa4210b6e3d8ec050131cc</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_e8efc492c3fa4210b6e3d8ec050131cc">107014d2c3fa4210b6e3d8ec05013168</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 22:18:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
