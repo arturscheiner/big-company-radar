@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Reportar Atividade da Concorrência">d578d49ec3fa4210b6e3d8ec05013163</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-16 23:17:52</sys_created_on>
+        <sys_id>a50e1c56c33e4210b6e3d8ec05013119</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reportar Atividade da Concorrência.HRSP employee, contractor, contingent roles</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a50e1c56c33e4210b6e3d8ec05013119</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-16 23:17:52</sys_updated_on>
+        <user_criteria display_value="HRSP employee, contractor, contingent roles">e903c8370b131200bb1e643ff6673a40</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
