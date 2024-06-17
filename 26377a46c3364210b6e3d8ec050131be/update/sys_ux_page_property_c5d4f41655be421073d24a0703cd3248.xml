@@ -25,17 +25,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c5d4f41655be421073d24a0703cd3248</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>chrome_header</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sys_ux_page_property_c5d4f41655be421073d24a0703cd3248</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 01:42:10</sys_updated_on>
+        <sys_updated_on>2024-06-17 14:19:53</sys_updated_on>
         <type>json</type>
         <unique_name>x_1434439_radar.bcd4f416c3be4210b6e3d8ec05013118.root.chrome_header</unique_name>
-        <value>{"privatePage":{"searchEnabled":true,"userPrefsEnabled":false,"currentScreenLinkConfiguration":{"roles":["admin"],"position":250},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"label":{"translatable":true,"message":"Settings"},"position":100,"type":"navigation","value":{"type":"route","value":{"route":"settings","fields":{}}}},{"condition":{"roles":["admin","ui_builder_admin"]},"label":{"translatable":true,"message":"Configure"},"type":"navigation","position":200,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=b0d4f416c3be4210b6e3d8ec05013119"}}},{"label":{"translatable":true,"message":"Logout"},"position":500,"type":"navigation","value":{"type":"AUTH_ROUTE_BINDING","binding":{"address":["logout"],"params":{"reload":true},"default":"/logout.do"}}}]}}],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"logoRoute":{"type":"route","value":{"route":"vis-o-geral-do-radar","fields":{}}},"searchEnabled":false}}</value>
+        <value>{"privatePage":{"searchEnabled":true,"userPrefsEnabled":false,"currentScreenLinkConfiguration":{"roles":["admin"],"position":250},"globalTools":{"collapsingMenuId":0,"primaryItems":[{"label":"UserMenu","icon":"user","type":"menu","primaryDisplay":"icon","value":{"children":[{"label":{"translatable":true,"message":"Settings"},"position":100,"type":"navigation","value":{"type":"route","value":{"route":"settings","fields":{}}}},{"condition":{"roles":["admin","ui_builder_admin"]},"label":{"translatable":true,"message":"Configure"},"type":"navigation","position":200,"primaryDisplay":"none","value":{"type":"external","opensWindow":"true","value":{"href":"/nav_to.do?uri=/sys_ux_app_config.do?sys_id=b0d4f416c3be4210b6e3d8ec05013119"}}},{"label":{"translatable":true,"message":"Logout"},"position":500,"type":"navigation","value":{"type":"AUTH_ROUTE_BINDING","binding":{"address":["logout"],"params":{"reload":true},"default":"/logout.do"}}}]}}],"secondaryItems":[]}},"publicPage":{"menuEnabled":false,"logoRoute":{"type":"route","value":{"route":"vis-o-geral-do-radar","fields":{}}},"searchEnabled":true}}</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=c5d4f41655be421073d24a0703cd3248"/>
 </record_update>
