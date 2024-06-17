@@ -2,14 +2,14 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Reportar Atividade da Concorrência">d578d49ec3fa4210b6e3d8ec05013163</cat_item>
+        <cat_item display_value="RADAR - Log Competitor Activity">d578d49ec3fa4210b6e3d8ec05013163</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>UpStart</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -30,11 +30,11 @@
         <instructions/>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label>competitor</lookup_label>
+        <lookup_label>competitor_name</lookup_label>
         <lookup_price/>
         <lookup_table>x_1434439_radar_competitors</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value>competitor</lookup_value>
+        <lookup_value>competitor_name</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Qual o nome do competidor?</question_text>
+        <question_text>Who is the competitor?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-16 23:14:20</sys_created_on>
         <sys_id>f2ec1416c33e4210b6e3d8ec0501319e</sys_id>
-        <sys_mod_count>10</sys_mod_count>
-        <sys_name>competitor</sys_name>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Who is the competitor?</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>item_option_new_f2ec1416c33e4210b6e3d8ec0501319e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 00:43:48</sys_updated_on>
+        <sys_updated_on>2024-06-17 20:14:05</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>

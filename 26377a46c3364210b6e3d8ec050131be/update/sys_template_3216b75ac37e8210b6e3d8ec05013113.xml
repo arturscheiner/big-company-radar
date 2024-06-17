@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>Radar Template</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description/>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 15:02:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3216b75ac37e8210b6e3d8ec05013113</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Radar Template</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>sys_template_3216b75ac37e8210b6e3d8ec05013113</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 15:31:37</sys_updated_on>
+        <table>sys_ux_page_property</table>
+        <template>name=chrome_headerx^page=bcd4f416c3be4210b6e3d8ec05013118^route=45d4f416e0be4210aec83c81d87cb468^suffix=chrome_header^type=json^value={&#13;
+    "privatePage":{&#13;
+       "searchEnabled": true&#13;
+    }&#13;
+}&#13;
+^EQ</template>
+        <user display_value="Artur Scheiner">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>

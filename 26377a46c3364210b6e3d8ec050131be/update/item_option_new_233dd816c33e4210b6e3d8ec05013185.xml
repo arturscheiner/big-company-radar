@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Reportar Atividade da Concorrência">d578d49ec3fa4210b6e3d8ec05013163</cat_item>
+        <cat_item display_value="RADAR - Log Competitor Activity">d578d49ec3fa4210b6e3d8ec05013163</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -18,7 +18,7 @@
         <dynamic_default_value/>
         <dynamic_ref_qual/>
         <dynamic_value_dot_walk_path>city</dynamic_value_dot_walk_path>
-        <dynamic_value_field display_value="Em qual cliente o concorrente realizou a atividade?">ad2c1c92c33e4210b6e3d8ec0501319b</dynamic_value_field>
+        <dynamic_value_field display_value="What is the name of the customer?">ad2c1c92c33e4210b6e3d8ec0501319b</dynamic_value_field>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
         <field>location</field>
@@ -47,7 +47,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Aonde você identificou a atividade?</question_text>
+        <question_text>Where did this activity happen?</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-16 23:16:02</sys_created_on>
         <sys_id>233dd816c33e4210b6e3d8ec05013185</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Aonde você identificou a atividade?</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Where did this activity happen?</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>item_option_new_233dd816c33e4210b6e3d8ec05013185</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 00:29:18</sys_updated_on>
+        <sys_updated_on>2024-06-17 20:15:07</sys_updated_on>
         <table/>
         <tooltip/>
         <type>8</type>

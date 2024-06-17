@@ -23,11 +23,11 @@
             "composition": [
                 {
                     "definition": {
-                        "id": "15fe506403f8a98575b6df59008ea8f1",
+                        "id": "d356d14b6e293a3020a244b63d278d8f",
                         "type": "MACROPONENT"
                     },
-                    "elementId": "image_1",
-                    "elementLabel": "Image 1",
+                    "elementId": "container_4",
+                    "elementLabel": "Container 4",
                     "eventMappings": [
                         
                     ],
@@ -35,41 +35,155 @@
                         "type": "JSON_LITERAL",
                         "value": null
                     },
-                    "preset": null,
-                    "propertyValues": {
-                        "alt": {
-                            "type": "TRANSLATION_LITERAL",
-                            "value": {
-                                "code": null,
-                                "comment": "",
-                                "message": ""
+                    "overrides": {
+                        "composition": [
+                            {
+                                "definition": {
+                                    "id": "15fe506403f8a98575b6df59008ea8f1",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "image_1",
+                                "elementLabel": "Image 1",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "alt": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": ""
+                                        }
+                                    },
+                                    "fit": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "cover"
+                                    },
+                                    "height": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    },
+                                    "position": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "center center"
+                                    },
+                                    "sources": {
+                                        "type": "JSON_LITERAL",
+                                        "value": [
+                                            
+                                        ]
+                                    },
+                                    "src": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "/radar_nw_banner.png"
+                                    },
+                                    "width": {
+                                        "type": "JSON_LITERAL",
+                                        "value": null
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
+                            },
+                            {
+                                "definition": {
+                                    "id": "4335ba6dca80378f7ba7a67cd6667bec",
+                                    "type": "MACROPONENT"
+                                },
+                                "elementId": "stylized_text_1",
+                                "elementLabel": "Stylized text 1",
+                                "eventMappings": [
+                                    
+                                ],
+                                "isHidden": {
+                                    "type": "JSON_LITERAL",
+                                    "value": null
+                                },
+                                "preset": null,
+                                "propertyValues": {
+                                    "configAria": {
+                                        "type": "JSON_LITERAL",
+                                        "value": {}
+                                    },
+                                    "css": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "* { color: whitesmoke;}"
+                                    },
+                                    "tag": {
+                                        "type": "JSON_LITERAL",
+                                        "value": "h2"
+                                    },
+                                    "text": {
+                                        "type": "TRANSLATION_LITERAL",
+                                        "value": {
+                                            "code": null,
+                                            "comment": "",
+                                            "message": "RADAR Activity Overview"
+                                        }
+                                    }
+                                },
+                                "slot": null,
+                                "styles": null
                             }
-                        },
-                        "fit": {
+                        ],
+                        "layout": {
+                            "default": {
+                                "children": null,
+                                "items": [
+                                    {
+                                        "element_id": "image_1",
+                                        "styles": {
+                                            "box-shadow": "var(--now-static-drop-shadow--xl)",
+                                            "height": "100px",
+                                            "width": "100%"
+                                        }
+                                    },
+                                    {
+                                        "element_id": "stylized_text_1",
+                                        "styles": {
+                                            "align-self": "flex-start",
+                                            "flex": "custom",
+                                            "height": "100px",
+                                            "margin-left": "var(--now-scalable-space--md)",
+                                            "margin-top": "-100px"
+                                        }
+                                    }
+                                ],
+                                "root": null,
+                                "rules": null,
+                                "styles": {
+                                    "align-items": "flex-start",
+                                    "flex-direction": "column",
+                                    "justify-content": "center",
+                                    "width": "100%"
+                                },
+                                "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
+                                "type": "flex"
+                            },
+                            "version": "3.0.0"
+                        }
+                    },
+                    "preset": {
+                        "controllerElementId": "properties_1",
+                        "disabledEventTargetIds": [
+                            
+                        ],
+                        "id": "6ca79542ffb12110f563bb63aad33e21"
+                    },
+                    "propertyValues": {
+                        "hideEmptyStateUi": {
                             "type": "JSON_LITERAL",
-                            "value": "cover"
+                            "value": true
                         },
-                        "height": {
+                        "slotWrapperBehavior": {
                             "type": "JSON_LITERAL",
-                            "value": null
-                        },
-                        "position": {
-                            "type": "JSON_LITERAL",
-                            "value": "center center"
-                        },
-                        "sources": {
-                            "type": "JSON_LITERAL",
-                            "value": [
-                                
-                            ]
-                        },
-                        "src": {
-                            "type": "JSON_LITERAL",
-                            "value": "/radar_banner.png"
-                        },
-                        "width": {
-                            "type": "JSON_LITERAL",
-                            "value": null
+                            "value": "fullheight"
                         }
                     },
                     "slot": null,
@@ -81,21 +195,24 @@
                     "children": null,
                     "items": [
                         {
-                            "element_id": "image_1",
+                            "element_id": "container_4",
                             "styles": {
-                                "border-color": "RGB(var(--now-color--neutral-5))",
-                                "border-radius": "var(--now-static-border-radius--lg)",
-                                "border-style": "solid",
-                                "border-width": "var(--now-static-space--xxs)",
-                                "box-shadow": "var(--now-static-drop-shadow--xl)",
-                                "height": "100px"
+                                "align-self": "center"
                             }
                         }
                     ],
                     "root": null,
                     "rules": null,
                     "styles": {
+                        "align-items": "center",
+                        "display": "flex",
+                        "flex": "0 1 auto",
                         "flex-direction": "column",
+                        "grid-auto-columns": "1fr",
+                        "grid-auto-rows": "1fr",
+                        "grid-template-columns": "1fr 1fr",
+                        "grid-template-rows": "1fr 1fr",
+                        "justify-content": "center",
                         "width": "100%"
                     },
                     "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
@@ -266,7 +383,7 @@
                             "value": {
                                 "code": null,
                                 "comment": "",
-                                "message": "Registrar Atividade"
+                                "message": "Log Competitor Activity"
                             }
                         },
                         "size": {
@@ -615,7 +732,68 @@
 ]</composition>
         <da_relay_models/>
         <data>[
-    
+    {
+        "definition": {
+            "id": "fdcde28377221110960ced43ba5a99e7",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {
+            "getMapDataController": "get_map_data_1"
+        },
+        "elementId": "properties_1",
+        "elementLabel": "Properties 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciClass": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "ciSysid": {
+                "type": "JSON_LITERAL",
+                "value": null
+            },
+            "connectionId": {
+                "type": "JSON_LITERAL",
+                "value": null
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    },
+    {
+        "definition": {
+            "id": "7cb6eb2e77321510960ced43ba5a9904",
+            "type": "CONTROLLER"
+        },
+        "dependencies": {},
+        "elementId": "get_map_data_1",
+        "elementLabel": "Get Map Data 1",
+        "eventMappings": [
+            
+        ],
+        "inputValues": {
+            "ciSysid": {
+                "binding": {
+                    "address": [
+                        "rootNode"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            },
+            "levels": {
+                "binding": {
+                    "address": [
+                        "levels"
+                    ],
+                    "category": "props"
+                },
+                "type": "CONTEXT_BINDING"
+            }
+        },
+        "readEvaluationMode": "EAGER"
+    }
 ]</data>
         <description/>
         <dispatched_events>e8c8385ac3be4210b6e3d8ec050131b8</dispatched_events>
@@ -632,7 +810,9 @@
         "items": [
             {
                 "element_id": "container_1",
-                "styles": {}
+                "styles": {
+                    "align-self": "center"
+                }
             },
             {
                 "element_id": "container_2",
@@ -646,12 +826,13 @@
         "root": null,
         "rules": null,
         "styles": {
+            "display": "flex",
             "flex-direction": "column",
-            "margin": "var(--now-scalable-space--3xl)",
-            "margin-bottom": "var(--now-scalable-space--3xl)",
-            "margin-left": "var(--now-scalable-space--3xl)",
-            "margin-right": "var(--now-scalable-space--3xl)",
-            "margin-top": "var(--now-scalable-space--3xl)"
+            "margin": "var(--now-scalable-space--xl)",
+            "margin-bottom": "var(--now-scalable-space--xl)",
+            "margin-left": "var(--now-scalable-space--xl)",
+            "margin-right": "var(--now-scalable-space--xl)",
+            "margin-top": "var(--now-scalable-space--xl)"
         },
         "templateId": "5832fd4d53c31010e6bcddeeff7b12db",
         "type": "flex"
@@ -671,7 +852,10 @@
   "message" : "Enter a label",
   "comment" : ""
 }, {
-  "message" : "Registrar Atividade",
+  "message" : "Log Competitor Activity",
+  "comment" : ""
+}, {
+  "message" : "RADAR Activity Overview",
   "comment" : ""
 } ]</required_translations>
         <root_component/>
@@ -683,14 +867,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-17 12:21:44</sys_created_on>
         <sys_id>8071db96c3ba8210b6e3d8ec050131c5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>40</sys_mod_count>
         <sys_name>Radar Overview</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>sys_ux_macroponent_8071db96c3ba8210b6e3d8ec050131c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-17 13:05:21</sys_updated_on>
+        <sys_updated_on>2024-06-17 20:06:30</sys_updated_on>
     </sys_ux_macroponent>
     <sys_translated_text action="delete_multiple" query="documentkey=8071db96c3ba8210b6e3d8ec050131c5"/>
 </record_update>
