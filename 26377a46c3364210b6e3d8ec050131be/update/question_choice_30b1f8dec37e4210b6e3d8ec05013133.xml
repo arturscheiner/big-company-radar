@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>500</order>
+        <published_ref/>
+        <question display_value="Qual o nome do competidor?">f2ec1416c33e4210b6e3d8ec0501319e</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 00:43:49</sys_created_on>
+        <sys_id>30b1f8dec37e4210b6e3d8ec05013133</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Zeta Technologies</sys_name>
+        <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
+        <sys_update_name>question_choice_30b1f8dec37e4210b6e3d8ec05013133</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 00:43:49</sys_updated_on>
+        <text>Zeta Technologies</text>
+        <value>Zeta Technologies</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=30b1f8dec37e4210b6e3d8ec05013133"/>
+</record_update>

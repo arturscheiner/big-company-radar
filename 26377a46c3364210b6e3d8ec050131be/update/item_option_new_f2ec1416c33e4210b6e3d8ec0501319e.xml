@@ -32,7 +32,7 @@
         <list_table/>
         <lookup_label>competitor</lookup_label>
         <lookup_price/>
-        <lookup_table>x_1434439_radar_competitor_activities</lookup_table>
+        <lookup_table>x_1434439_radar_competitors</lookup_table>
         <lookup_unique>false</lookup_unique>
         <lookup_value>competitor</lookup_value>
         <macro/>
@@ -77,17 +77,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-06-16 23:14:20</sys_created_on>
         <sys_id>f2ec1416c33e4210b6e3d8ec0501319e</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>Qual o nome do competidor?</sys_name>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>competitor</sys_name>
         <sys_package display_value="Radar" source="x_1434439_radar">26377a46c3364210b6e3d8ec050131be</sys_package>
         <sys_policy/>
         <sys_scope display_value="Radar">26377a46c3364210b6e3d8ec050131be</sys_scope>
         <sys_update_name>item_option_new_f2ec1416c33e4210b6e3d8ec0501319e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-16 23:47:19</sys_updated_on>
+        <sys_updated_on>2024-06-17 00:43:48</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>8</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
